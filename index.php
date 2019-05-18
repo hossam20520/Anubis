@@ -10,6 +10,7 @@ use Necropolis\core\view;
 use Necropolis\core\core;
 use Necropolis\app\hello;
 use App\controller\test;
+use App\Middleware\login;
 
 
 $app = System\App::instance();

@@ -13,7 +13,8 @@
         "phroute/phroute": "1.*",
      "nezamy/route": "^1.2",
      "seeds/seeds": "^1.0",
-        "necropolis/core": "^1.1" 
+        "necropolis/core": "^1.1",
+        "facebook/graph-sdk": "^5.7" 
     },
 
     "autoload": {
